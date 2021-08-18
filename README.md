@@ -7,7 +7,7 @@
 1. Install the `code` shell command in Terminal's path using VS Code following these [simple instructions](https://code.visualstudio.com/docs/setup/mac).
 2. Clone the repository
 3. ```cd``` into the directory
-4. run ```/usr/bin/automator "Open in Visual Studio Code.workflow"```
+4. run ```/usr/bin/automator "Open in Visual Studio Code.workflow"``` or Open the "Open in Visual Studio Code.workflow" service and choose Install.
 
 
 Right click on a file or folder and choose the *Open in Visual Studio Code* service and your folder or file will open in VS Code.
